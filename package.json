@@ -1,0 +1,39 @@
+{
+  "name": "serialws",
+  "version": "1.0.0",
+  "description": "Websocket implementation to serve serial port reading.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janudewangga/serialws.git"
+  },
+  "keywords": [
+    "janudewangga",
+    "janu",
+    "dewangga",
+    "serial",
+    "port",
+    "serialport",
+    "reading",
+    "streaming",
+    "read",
+    "stream",
+    "input",
+    "balance",
+    "scale",
+    "scaling"
+  ],
+  "author": "Janu Dewangga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janudewangga/serialws/issues"
+  },
+  "homepage": "https://github.com/janudewangga/serialws#readme",
+  "dependencies": {
+    "serialport": "^7.0.2",
+    "ws": "^6.1.2"
+  }
+}

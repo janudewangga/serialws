@@ -1,0 +1,12 @@
+{
+  "server": {
+    "port": 1992
+  },
+  "serialData": {
+    "port": "COM4",
+    "baudRate": 2400,
+    "dataBits": 8,
+    "stopBits": 1,
+    "parity": "none"
+  }
+}
